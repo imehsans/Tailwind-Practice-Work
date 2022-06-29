@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;500&family=Work+Sans:wght@300;400;500;700;800&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Work Sans", sans-serif;
+}
+
+.hero-secion {
+  background-image: url("../images/banner6.png");
+}
+
+/* .nav-wrapper{
+  width:95%;
+  margin:0 auto;
+} */
+/* #navbar {
+  animation: load 0.5s linear;
+}
+
+@keyframes load {
+  from {
+    opacity: 50%;
+  }
+  to {
+    opacity: 100%;
+  }
+} */
